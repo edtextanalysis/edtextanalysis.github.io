@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "News"
+title: ""
 image:
   feature: https://www.planwallpaper.com/static/images/wallpaper672898_phFezZz.jpeg
 ---
