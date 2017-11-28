@@ -6,7 +6,7 @@ image:
   feature: https://www.planwallpaper.com/static/images/wallpaper672898_phFezZz.jpeg
 ---
 
-# Edinburgh Text Analysis Research Group
+# About Edinburgh Text Analysis Research Group
 
 The Edinburgh Text Analysis Research Group (EdTA) provides postgraduate students and academics with a platform to discuss projects, issues and ideas related to Computational Text Analysis (also referred to as Automated Content Analysis, Quantitative Content Analysis, Text as Data, Text Mining, and so on).
 
