@@ -1,11 +1,11 @@
 # Site navigation links
 
-- title: News
+- title: Home
   url: /
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: 300x200.gif
+  excerpt: "Back to Home"
+  image:
 
 - title: About Us
   url: /about/
   excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: 300x200.gif
+  image: 
