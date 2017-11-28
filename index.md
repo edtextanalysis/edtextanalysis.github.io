@@ -2,6 +2,8 @@
 layout: archive
 permalink: /
 title: "News"
+image:
+  feature: https://www.planwallpaper.com/static/images/wallpaper672898_phFezZz.jpeg
 ---
 
 <div class="tiles">
