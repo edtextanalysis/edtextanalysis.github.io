@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Testing hahaha"
+title: "Testing"
 categories: articles
 modified: 2016-06-01T16:28:11-04:00
 tags: [sample]
@@ -8,7 +8,7 @@ comments: true
 ads: true
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+This is place holder.
 
 {% include toc.html %}
 
